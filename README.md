@@ -12,8 +12,8 @@ Philani Syabonga Vundla: Front End Developer
 
 Mncedisi Mthembu :Back End Developer
 
-I was doing backend development, handling all functionalities including MySQL(Database) of Nova Associate web app. I believe that we did a great job for this 
-web app lot of people loved it.
+I was doing backend development, handling all functionalities including MySQL(Database) of Nova Associate web app.
+I believe that we did a great job for this web app lot of people loved it. When we were presenting it to them including FEED.
 
 Resource used for Nova Associate Web App are:
 We used :> PHP, JavaScript, MySQL, HTML (Home Page), CSS, Bootstrap
