@@ -9,6 +9,7 @@ the online payment and can do more.
 Team who developed Nova Associate and handle the functions:
 
 Philani Syabonga Vundla: Front End Developer 
+
 Mncedisi Mthembu :Back End Developer
 
 I will be focusing more on me (Mncedisi Mthembu), I was doing backend development, handling all 
